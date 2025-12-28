@@ -74,8 +74,8 @@ Dataset mencakup informasi seperti:
 
 ### 1️⃣ Clone Repository
 ```
-git clone https://github.com/username/bike-sharing-analysis.git
-cd bike-sharing-analysis
+git clone https://github.com/claraaulsep/Bike-Sharing-Data-Analysis.git
+cd Bike-Sharing-Data-Analysis
 ```
 ### 2️⃣ (Opsional) Aktifkan Virtual Environment
 Penggunaan virtual environment bertujuan agar library yang digunakan tidak bentrok dengan proyek lain.
