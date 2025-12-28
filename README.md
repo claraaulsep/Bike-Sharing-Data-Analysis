@@ -122,3 +122,5 @@ Insight ini dapat digunakan sebagai dasar pengambilan keputusan, seperti penyesu
 ## 🖼️ Screenshot Dashboard (Opsional)
 
 Berikut adalah tampilan dashboard hasil analisis menggunakan **Streamlit**:
+![image](https://github.com/claraaulsep/Bike-Sharing-Data-Analysis/blob/d6abcc5e536eec5dec78b90132cdcfa4673720fb/Screenshot%20Dashboard/Screenshot%202025-12-28%20125946.png)
+
