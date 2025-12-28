@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+matplotlib.use("Agg")
 import seaborn as sns
 
 # Konfigurasi halaman
@@ -73,3 +74,4 @@ st.markdown("""
 - Hari kerja memiliki tingkat peminjaman yang lebih tinggi dibandingkan akhir pekan, 
   yang mengindikasikan penggunaan sepeda sebagai sarana transportasi rutin.
 """)
+
