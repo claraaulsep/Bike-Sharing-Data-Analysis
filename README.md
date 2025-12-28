@@ -103,3 +103,22 @@ Library Python yang digunakan:
 - ``` seaborn ```
 - ``` scikit-learn ```
 - ``` streamlit ```
+
+---
+
+## 💡 Ringkasan Insight Hasil Analisis
+
+Beberapa insight utama yang diperoleh dari analisis data Bike Sharing adalah sebagai berikut:
+
+- 📈 **Hari kerja (weekday)** memiliki jumlah peminjaman sepeda yang lebih tinggi dibandingkan akhir pekan.
+- ☀️ **Kondisi cuaca cerah** berpengaruh signifikan terhadap peningkatan jumlah peminjaman sepeda.
+- 🌸 **Musim tertentu** (seperti summer dan fall) menunjukkan pola penggunaan sepeda yang lebih tinggi.
+- 👥 **Pengguna terdaftar (registered users)** mendominasi jumlah peminjaman dibandingkan pengguna kasual.
+
+Insight ini dapat digunakan sebagai dasar pengambilan keputusan, seperti penyesuaian jumlah sepeda yang tersedia berdasarkan waktu dan kondisi cuaca.
+
+---
+
+## 🖼️ Screenshot Dashboard (Opsional)
+
+Berikut adalah tampilan dashboard hasil analisis menggunakan **Streamlit**:
