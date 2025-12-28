@@ -73,15 +73,33 @@ Dataset mencakup informasi seperti:
 ## ▶️ Cara Menjalankan Proyek
 
 ### 1️⃣ Clone Repository
-```bash
+```
 git clone https://github.com/username/bike-sharing-analysis.git
 cd bike-sharing-analysis
-
-
+```
 ### 2️⃣ (Opsional) Aktifkan Virtual Environment
 Penggunaan virtual environment bertujuan agar library yang digunakan tidak bentrok dengan proyek lain.
-
-```bash
+```
 python -m venv .venv
 source .venv/bin/activate   # Linux / Mac
 .venv\Scripts\activate      # Windows
+```
+### 3️⃣ Install Dependencies 
+Install seluruh library yang dibutuhkan dengan perintah berikut:
+```
+pip install -r requirements.txt
+```
+### 4️⃣ Jalankan Dashboard
+```
+streamlit run dashboard.py
+```
+Dashboard akan terbuka otomatis di browser 🌐
+
+## 📦 Requirements
+Library Python yang digunakan:
+- ``` pandas ```
+- ``` numpy ```
+- ``` matplotlib ```
+- ``` seaborn ```
+- ``` scikit-learn ```
+- ``` streamlit ```
