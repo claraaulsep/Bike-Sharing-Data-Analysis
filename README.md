@@ -124,4 +124,4 @@ Insight ini dapat digunakan sebagai dasar pengambilan keputusan, seperti penyesu
 Berikut adalah tampilan dashboard hasil analisis menggunakan **Streamlit**:
 ![image](https://github.com/claraaulsep/Bike-Sharing-Data-Analysis/blob/d6abcc5e536eec5dec78b90132cdcfa4673720fb/Screenshot%20Dashboard/Screenshot%202025-12-28%20125946.png)
 ![image](https://github.com/claraaulsep/Bike-Sharing-Data-Analysis/blob/d6466700ffd7488bba51fbb4ffc579fcb0d09d0c/Screenshot%20Dashboard/Screenshot%202025-12-28%20125956.png)
-
+![image](https://github.com/claraaulsep/Bike-Sharing-Data-Analysis/blob/3761c993ea23b70dbbe3761bbb82e1166c0c6331/Screenshot%20Dashboard/Screenshot%202025-12-28%20130006.png)
